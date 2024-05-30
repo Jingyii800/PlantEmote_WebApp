@@ -2,7 +2,7 @@
 
 ### "Bridging the gap between nature and technology, one Mimosa at a time." 
 <br>
-
+Link to deployed Web app: https://techin510plantemote.azurewebsites.net/
 
 ## Technologies Used
 - **Backend**: Python, Flask, PostgreSQL, OpenAI API, Azure Functions
@@ -14,11 +14,11 @@ Plants are a crucial part of our ecosystem, but their needs and responses are of
 By leveraging technology, we can make plant care more intuitive and engaging.
 
 
-## collaboration with IoT Device
+## Collaboration with IoT Device
 Our IoT device plays a vital role in the PlantEmote ecosystem. It can generate artistic images based on the electrical signals produced by a Mimosa plant when it is touched. 
-These signals are captured in real-time, processed, and transformed into beautiful, unique visual representations. 
+These signals are captured in real time, processed, and transformed into beautiful, unique visual representations. 
 The web app can display the newest artistic plot, show previous images stored in the database, and interact with the plant through text-based queries based on the current condition reflected in the signal plot.
-- Link to our IoT device github repository: https://github.com/Jingyii800/TECHIN515_PlantEmote.git
+- Link to our IoT device GitHub repository: https://github.com/Jingyii800/TECHIN515_PlantEmote.git
 <br>
 
 
