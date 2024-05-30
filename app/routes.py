@@ -7,9 +7,9 @@ from dotenv import load_dotenv
 
 main = Blueprint('main', __name__)
 load_dotenv()
-client = openai(
-api_key=os.getenv("OPENAI_API_KEY"),
-base_url="https://openai.ianchen.io/v1",
+client = openai.Client(
+    api_key=os.getenv("OPENAI_API_KEY"),
+    base_url="https://openai.ianchen.io/v1",
 )
 
 os.environ.get("OPENAI_API_KEY")
