@@ -14,7 +14,7 @@ Plants are a crucial part of our ecosystem, but their needs and responses are of
 By leveraging technology, we can make plant care more intuitive and engaging.
 
 
-## IoT Device
+## collaboration with IoT Device
 Our IoT device plays a vital role in the PlantEmote ecosystem. It can generate artistic images based on the electrical signals produced by a Mimosa plant when it is touched. 
 These signals are captured in real-time, processed, and transformed into beautiful, unique visual representations. 
 The web app can display the newest artistic plot, show previous images stored in the database, and interact with the plant through text-based queries based on the current condition reflected in the signal plot.
