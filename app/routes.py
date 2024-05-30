@@ -2,12 +2,12 @@ import os
 import logging
 from flask import Blueprint, jsonify, render_template, request
 from .database import get_db_connection
-import openai
+from openai import OpenAI
 from dotenv import load_dotenv
 
 main = Blueprint('main', __name__)
 load_dotenv()
-client = openai.Client(
+client = OpenAI(
     api_key=os.getenv("OPENAI_API_KEY"),
     base_url="https://openai.ianchen.io/v1",
 )
