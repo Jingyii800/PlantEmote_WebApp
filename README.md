@@ -6,6 +6,9 @@ Team Member: Fenglyu Liu, Jingyi Jia, Yuyang Qi
 <br>
 Link to deployed Web app: https://techin510plantemote.azurewebsites.net/
 
+![image](https://github.com/Jingyii800/PlantEmote_WebApp/assets/112589476/b714756a-4e15-4148-888d-7553911414b3)
+![image](https://github.com/Jingyii800/PlantEmote_WebApp/assets/112589476/f9f17129-3fe9-44b1-a8eb-6f97a36acec1)
+
 ## Technologies Used
 - **Backend**: Python, Flask, PostgreSQL, OpenAI API, Azure Functions
 - **Frontend**: HTML, CSS, JavaScript, Chart.js
