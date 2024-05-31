@@ -2,6 +2,7 @@
 
 ### "Bridging the gap between nature and technology, one Mimosa at a time." 
 <br>
+Team Member: Fenglyu Liu, Jingyi Jia, Yuyang Qi
 Link to deployed Web app: https://techin510plantemote.azurewebsites.net/
 
 ## Technologies Used
